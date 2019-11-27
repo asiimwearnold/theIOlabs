@@ -1,0 +1,23 @@
+{
+  "name": "theiolabs",
+  "version": "1.0.0",
+  "description": "coming soon\r The technologists of the Future Times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiimwearnold/theIOlabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiimwearnold/theIOlabs/issues"
+  },
+  "homepage": "https://github.com/asiimwearnold/theIOlabs#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
